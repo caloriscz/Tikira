@@ -1,0 +1,23 @@
+C:\Users\pekaro\AppData\Local\Temporary Projects\Tikira\bin\Debug\Tikira.exe
+C:\Users\pekaro\AppData\Local\Temporary Projects\Tikira\bin\Debug\Tikira.pdb
+C:\Users\pekaro\AppData\Local\Temporary Projects\Tikira\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pekaro\AppData\Local\Temporary Projects\Tikira\obj\x86\Debug\Tikira.Form1.resources
+C:\Users\pekaro\AppData\Local\Temporary Projects\Tikira\obj\x86\Debug\Tikira.Properties.Resources.resources
+C:\Users\pekaro\AppData\Local\Temporary Projects\Tikira\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pekaro\AppData\Local\Temporary Projects\Tikira\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pekaro\AppData\Local\Temporary Projects\Tikira\obj\x86\Debug\Tikira.exe
+C:\Users\pekaro\AppData\Local\Temporary Projects\Tikira\obj\x86\Debug\Tikira.pdb
+C:\Users\pekaro\documents\visual studio 2010\Projects\Tikira\Tikira\obj\x86\Debug\Tikira.exe
+C:\Users\pekaro\documents\visual studio 2010\Projects\Tikira\Tikira\obj\x86\Debug\Tikira.pdb
+C:\Users\pekaro\documents\visual studio 2010\Projects\Tikira\Tikira\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pekaro\documents\visual studio 2010\Projects\Tikira\Tikira\obj\x86\Debug\Tikira.Form1.resources
+C:\Users\pekaro\documents\visual studio 2010\Projects\Tikira\Tikira\obj\x86\Debug\Tikira.Properties.Resources.resources
+C:\Users\pekaro\documents\visual studio 2010\Projects\Tikira\Tikira\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pekaro\documents\visual studio 2010\Projects\Tikira\Tikira\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pekaro\documents\visual studio 2010\Projects\Tikira\Tikira\bin\Debug\Tikira.exe
+C:\Users\pekaro\documents\visual studio 2010\Projects\Tikira\Tikira\bin\Debug\Tikira.pdb
+C:\Users\pekaro\Documents\Visual Studio 2010\Projects\Tikira\Tikira\obj\x86\Debug\Tikira.Form2.resources
+C:\Users\pekaro\Documents\Visual Studio 2010\Projects\Tikira\Tikira\obj\x86\Debug\Tikira.Settings.resources
+C:\Users\pekaro\Documents\Visual Studio 2010\Projects\Tikira\Tikira\obj\x86\Debug\Tikira.ImageFileInfo.resources
+m:\repository\projects\tikira\Source\Tikira-0.3b\Tikira\obj\x86\Debug\Tikira.exe
+m:\repository\projects\tikira\Source\Tikira-0.3b\Tikira\obj\x86\Debug\Tikira.pdb

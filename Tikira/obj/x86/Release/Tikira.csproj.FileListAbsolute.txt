@@ -1,0 +1,12 @@
+C:\Users\pekaro\Documents\Visual Studio 2010\Projects\Tikira\Tikira\bin\Release\Tikira.exe
+C:\Users\pekaro\Documents\Visual Studio 2010\Projects\Tikira\Tikira\bin\Release\Tikira.pdb
+C:\Users\pekaro\Documents\Visual Studio 2010\Projects\Tikira\Tikira\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\pekaro\Documents\Visual Studio 2010\Projects\Tikira\Tikira\obj\x86\Release\Tikira.Form1.resources
+C:\Users\pekaro\Documents\Visual Studio 2010\Projects\Tikira\Tikira\obj\x86\Release\Tikira.Properties.Resources.resources
+C:\Users\pekaro\Documents\Visual Studio 2010\Projects\Tikira\Tikira\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\pekaro\Documents\Visual Studio 2010\Projects\Tikira\Tikira\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\pekaro\Documents\Visual Studio 2010\Projects\Tikira\Tikira\obj\x86\Release\Tikira.exe
+C:\Users\pekaro\Documents\Visual Studio 2010\Projects\Tikira\Tikira\obj\x86\Release\Tikira.pdb
+C:\Users\pekaro\Documents\Visual Studio 2010\Projects\Tikira\Tikira\obj\x86\Release\Tikira.Form2.resources
+C:\Users\pekaro\Documents\Visual Studio 2010\Projects\Tikira\Tikira\obj\x86\Release\Tikira.ImageFileInfo.resources
+C:\Users\pekaro\Documents\Visual Studio 2010\Projects\Tikira\Tikira\obj\x86\Release\Tikira.Settings.resources
